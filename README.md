@@ -1,7 +1,5 @@
 # Neuro-Vision-AI
 
-# Neuro Vision AI
-
 ## Overview
 **Neuro Vision AI** is an advanced deep learning-based system designed for **brain tumor detection** using **MRI-scanned images in JPG format**. This project leverages state-of-the-art **Computer Vision and 3D Visualization** techniques to not only detect tumors but also provide a **Brain Chop 3D demo**, offering a comprehensive visualization of the **entire skull and brain**.
 
@@ -50,10 +48,8 @@
 - **Integration with Medical Databases**
 - **Enhanced 3D Reconstruction with AI-driven Insights**
 
-## License
-This project is licensed under the **MIT License**.
-
 ## Contributors
+- **Meghana M**
 - **Syed Anis Al Rehaman**
 
 For any inquiries or contributions, feel free to submit a pull request or open an issue.
