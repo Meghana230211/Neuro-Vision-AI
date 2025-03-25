@@ -22,7 +22,7 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/NeuroVisionAI.git
+   git clone https://github.com/Meghana230211/Neuro-Vision-AI.git
    cd NeuroVisionAI
    ```
 2. Create a virtual environment:
